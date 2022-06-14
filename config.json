@@ -12,7 +12,7 @@
     },
     "orientation": {
         "portrait": true,
-        "landscape": true
+        "landscape": false
     },
     "permissions": [
         {
@@ -94,8 +94,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "myapp",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
@@ -125,13 +125,13 @@
             "enabled": false
         },
         "localNotifications": {
-            "enabled": false
+            "enabled": true
         },
         "appCenterOTA": {
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": true
+            "enabled": false
         }
     }
 }
