@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "myapp.workoutnation",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2,
+        "versionName": "1.0.1",
+        "outputFile": "app-appstore-debug.apk",
+        "fullName": "appstoreDebug",
+        "baseName": "appstore-debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "myapp.workoutnation",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

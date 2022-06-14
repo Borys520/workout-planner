@@ -1,0 +1,992 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+MERGED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+MERGED from [androidx.databinding:viewbinding:4.0.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8c97cf0b23302075ba66dcf5e1ddd6a0\jetified-viewbinding-4.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d5bea9987b0b0c31aacb87b63b71f7bc\jetified-flipper-network-plugin-0.66.0\AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1357dc7d1ae8cd3a569c003acbdab023\jetified-flipper-fresco-plugin-0.66.0\AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\072455b3505f66f5c12a577082aa12d7\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-video] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_art] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\art\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_cameraroll] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\cameraroll\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-localize] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-permissions] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-sqlite-storage] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-sqlite-storage\platforms\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-view-shot] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-view-shot\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f72f5b819e8b93b772ba1f97beeb0dd2\jetified-react-native-0.64.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\21c422b08b54adfd90fd2c70212590e3\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:2:1-16:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\349dfd2d8059dbb222306954925050f8\jetified-android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [:mendixnative-release] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\mendixnative-release\build\.transforms\db36da5dde4acd0708171410c2a278f0\jetified-mendixnative-release\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\548d473230604d26f1b9e21a21bf6a80\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\996272ab22befb8674b870db1147e7e2\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\582f8ecd206696f8df3e71a3481a7167\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5d7a342ad1fc58a20a1c1adf3f84cbd6\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b0af1478ce5ae6b78ad91ba9409ed3f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\08f1954f7ee7c20c02c685a910b84ebb\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\126cf57ef868a5c30e11d35a27463a1c\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:17:1-45:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\15159424a3a85eb1d3e0f61877c87be4\transition-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c20eab1600f6d623094fdf99f15f09ab\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\83b429d15946765ee1cc13b8a80557b4\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d47deba02e22b7ce9e8ceeba770334ec\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62369eb85b0bad744c5bbe6c8d972ddc\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c0aab42419e6dd47e3da5dcb03dd291f\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\07bfd3855be3dacc2a66c309ca783106\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\db59f9acefbe52a745e279c670b2841f\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\97495be63d0e41c2ed188db39371a292\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\e24a8a58f9ad09c19384cf824cedf898\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8fe8d629ed365d84ec6396a77822e0fa\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\16278dbc350bee12621e270897a9eed6\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6a9e70998461afeab69337f6bd1bd7bd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ca97129a2b5d6997b138e57d527b00a5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b89b9e5aa86059fb1a2d06806fe40d06\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\16cce318352b0342c0055c0d656bb98a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\332ec11a98b37ad25b1e5b97824dfae2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\2b2c3d53d115d91e3a754d8977b8fc86\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7ad242176384f10b9ff8b4a410ba25ab\jetified-exoplayer-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8ca56a27f4150254d8e1dd693fd8a98f\jetified-exoplayer-ui-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\03509f69f752fa25b71122031f077dfb\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\52fc12c2fe1e8174b50c648f6492c8c7\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\e2a6ada9f464624487d5b8211c4847aa\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0cf9d3a1916eb79b77e27f87c9ab3fcf\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.2.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6b2619145796022d327a4eb4be0d365c\media-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6adb73ad9106880e57d7e1ec333aa31d\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7194f1d5f898f44b67eabdf4d09813d5\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\820473139abe90160e1d5b178b8d7c2a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5d8b11699009200b1fecbb4ed603e8be\jetified-extension-okhttp-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f28d2dd5f86c09b02bdc0da3c8f1dc65\exifinterface-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c893e467d09569f713ce5f41288c8919\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\262362128c6adf5b008f7b4e4f8d8f33\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bfcc709bbbfa0118a5829f8fdf24fa00\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\a491cc07b9d7e565788b93a06b654a60\jetified-exoplayer-dash-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4f28bfea784ca1fff2364795f3a63056\jetified-exoplayer-hls-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\387ac19364fb959fc430e1c5d71b1937\jetified-exoplayer-smoothstreaming-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5fb068556a2ae13856aa934bd4a71f49\jetified-exoplayer-transformer-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\01f92004d56b52b50dd81910eaa1e5fe\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f42bdec93e411521da10c42f09aef8c4\jetified-exoplayer-extractor-2.13.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b0cac009609f3be01460c0894c8e7725\jetified-exoplayer-common-2.13.2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3260eadb86b39f35d326863762ab9a2b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\26868c7efe37a329414f6c9eb00166a2\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4e5b7f0d8657290771e0a64672d6114d\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\9618be861e2755f08820d8c59d2810a7\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b98175d82b5931256f2f2c89930e68f1\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb46f4a306552967844dd4dde77001ce\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\9aa311864570cba014a21acb348ecd4a\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\19025cfdfa25d95f16ce341081dfb0b6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1f726c0dcbd3ce7dcc4eb0169dea3a47\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b4a21082224ae501ccf3dbe48b0af2ad\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\77e298229267a5e40637440d3b3a41ae\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\03f0cd33800c80b61a695f23cbe7f103\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\eed2432ebbb5273cd34bd3daa3a8e856\jetified-flipper-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5b8f69e37d76de3f4c3f355aa5611543\jetified-stetho-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4c24f9eac559e39e0b841c292e86b79f\jetified-fresco-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\99ce8faa51b55601243bde7e516fdc80\jetified-drawee-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8a1e992f024aea6808eb37a94926f3a4\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ce5608118ef44f19e34c0b1abe10a572\jetified-memory-type-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\470b21d9b43984b1636136a3cb7059d6\jetified-memory-type-java-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b02629505fffa1ae009b31175003af3b\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\aafa3ebeaa5165acd7ea423ce6bf1548\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\78c94b4889a7742eb38dcce02db886a6\jetified-imagepipeline-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\69f8532b13a171397509ca7c324efe6d\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6f59eba8e15ecb9d6e360661c8b83e1e\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0c40e28bf21a8ae7b404ec3a9c7fca9\jetified-soloader-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\36e29989621daf5e89b997538d6a24ae\jetified-soloader-0.9.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:2:1-13:12
+MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c5974ff8e5e59e672e47ae2a76436e1b\jetified-eventbus-3.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\dd20334d780406349135891cf9efd6f3\jetified-fbcore-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cf6ee4f899c2c957a5f506151b17f1fe\jetified-ui-common-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3713f268c61e9325990bb656fcd6b6a1\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:70-105
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:70-105
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:1-57:12
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:2:5-84
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:2:22-82
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:3:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:8:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.camera
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:12:5-84
+	android:required
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:12:58-82
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:13:5-90
+	android:required
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:13:64-88
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:13:19-63
+uses-feature#android.hardware.nfc
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:14:5-81
+	android:required
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:14:55-79
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:14:19-54
+queries
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:15:5-28:15
+intent
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:16:9-19:18
+action#android.intent.action.VIEW
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:17:13-64
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:17:21-62
+data
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:18:13-43
+	android:scheme
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:18:19-41
+application
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:5-55:19
+MERGED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:5-55:19
+MERGED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:5-55:19
+MERGED from [:react-native-splash-screen] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:19
+MERGED from [:react-native-community_datetimepicker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-16:19
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f72f5b819e8b93b772ba1f97beeb0dd2\jetified-react-native-0.64.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f72f5b819e8b93b772ba1f97beeb0dd2\jetified-react-native-0.64.2\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c20eab1600f6d623094fdf99f15f09ab\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c20eab1600f6d623094fdf99f15f09ab\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62369eb85b0bad744c5bbe6c8d972ddc\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62369eb85b0bad744c5bbe6c8d972ddc\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\07bfd3855be3dacc2a66c309ca783106\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\07bfd3855be3dacc2a66c309ca783106\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\db59f9acefbe52a745e279c670b2841f\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\db59f9acefbe52a745e279c670b2841f\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\97495be63d0e41c2ed188db39371a292\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\97495be63d0e41c2ed188db39371a292\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7194f1d5f898f44b67eabdf4d09813d5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7194f1d5f898f44b67eabdf4d09813d5\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\820473139abe90160e1d5b178b8d7c2a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\820473139abe90160e1d5b178b8d7c2a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3260eadb86b39f35d326863762ab9a2b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3260eadb86b39f35d326863762ab9a2b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\36e29989621daf5e89b997538d6a24ae\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\36e29989621daf5e89b997538d6a24ae\jetified-soloader-0.9.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:249-292
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:249-292
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7194f1d5f898f44b67eabdf4d09813d5\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:50-82
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:50-82
+	tools:ignore
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:118-163
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:118-163
+	tools:targetApi
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:largeHeap
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:192-216
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:192-216
+	android:icon
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:83-117
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:83-117
+	android:allowBackup
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:164-191
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:164-191
+	android:theme
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:217-248
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:217-248
+	android:usesCleartextTraffic
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:18-49
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:29:18-49
+activity#com.mendix.nativetemplate.MainActivity
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:106-146
+	android:label
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:73-105
+	android:launchMode
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:265-295
+	android:windowSoftInputMode
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:225-264
+	android:configChanges
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:147-224
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:30:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:33:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:myapp
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:35:13-41:29
+	android:label
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:35:28-59
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:38:17-75
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:39:27-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:43:9-85
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-86
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-86
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:43:19-83
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:44:9-84
+	android:value
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:44:66-82
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:44:20-65
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:45:9-107
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:45:19-105
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:46:9-109
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:46:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:47:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:49:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:50:17-81
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:50:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:51:17-81
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:51:25-79
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:54:9-139
+	android:exported
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:54:113-137
+	android:name
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:54:18-112
+supports-screens
+ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:56:5-140
+	android:largeScreens
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:56:80-108
+	android:smallScreens
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:56:23-50
+	android:normalScreens
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:56:51-79
+	android:xlargeScreens
+		ADDED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml:56:109-138
+uses-sdk
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.0.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8c97cf0b23302075ba66dcf5e1ddd6a0\jetified-viewbinding-4.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.0.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8c97cf0b23302075ba66dcf5e1ddd6a0\jetified-viewbinding-4.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d5bea9987b0b0c31aacb87b63b71f7bc\jetified-flipper-network-plugin-0.66.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d5bea9987b0b0c31aacb87b63b71f7bc\jetified-flipper-network-plugin-0.66.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1357dc7d1ae8cd3a569c003acbdab023\jetified-flipper-fresco-plugin-0.66.0\AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1357dc7d1ae8cd3a569c003acbdab023\jetified-flipper-fresco-plugin-0.66.0\AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\072455b3505f66f5c12a577082aa12d7\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\072455b3505f66f5c12a577082aa12d7\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-splash-screen\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-code-push] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-code-push\android\app\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-video\android-exoplayer\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_art] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\art\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_art] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\art\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\cameraroll\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_cameraroll] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\cameraroll\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\app\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-device-info\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-fast-image\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-localize] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localize] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-localize\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-push-notification\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-sqlite-storage] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-sqlite-storage\platforms\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-sqlite-storage\platforms\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-svg\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-view-shot\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-view-shot\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f72f5b819e8b93b772ba1f97beeb0dd2\jetified-react-native-0.64.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.64.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f72f5b819e8b93b772ba1f97beeb0dd2\jetified-react-native-0.64.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\21c422b08b54adfd90fd2c70212590e3\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\21c422b08b54adfd90fd2c70212590e3\jetified-imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\349dfd2d8059dbb222306954925050f8\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\349dfd2d8059dbb222306954925050f8\jetified-android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [:mendixnative-release] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\mendixnative-release\build\.transforms\db36da5dde4acd0708171410c2a278f0\jetified-mendixnative-release\AndroidManifest.xml:7:5-9:41
+MERGED from [:mendixnative-release] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\mendixnative-release\build\.transforms\db36da5dde4acd0708171410c2a278f0\jetified-mendixnative-release\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\548d473230604d26f1b9e21a21bf6a80\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.1.0-alpha03] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\548d473230604d26f1b9e21a21bf6a80\jetified-security-crypto-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\996272ab22befb8674b870db1147e7e2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\996272ab22befb8674b870db1147e7e2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\582f8ecd206696f8df3e71a3481a7167\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\582f8ecd206696f8df3e71a3481a7167\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5d7a342ad1fc58a20a1c1adf3f84cbd6\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5d7a342ad1fc58a20a1c1adf3f84cbd6\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b0af1478ce5ae6b78ad91ba9409ed3f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b0af1478ce5ae6b78ad91ba9409ed3f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\08f1954f7ee7c20c02c685a910b84ebb\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\08f1954f7ee7c20c02c685a910b84ebb\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\126cf57ef868a5c30e11d35a27463a1c\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\126cf57ef868a5c30e11d35a27463a1c\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\15159424a3a85eb1d3e0f61877c87be4\transition-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\15159424a3a85eb1d3e0f61877c87be4\transition-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c20eab1600f6d623094fdf99f15f09ab\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c20eab1600f6d623094fdf99f15f09ab\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\83b429d15946765ee1cc13b8a80557b4\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\83b429d15946765ee1cc13b8a80557b4\jetified-play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d47deba02e22b7ce9e8ceeba770334ec\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d47deba02e22b7ce9e8ceeba770334ec\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62369eb85b0bad744c5bbe6c8d972ddc\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62369eb85b0bad744c5bbe6c8d972ddc\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c0aab42419e6dd47e3da5dcb03dd291f\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c0aab42419e6dd47e3da5dcb03dd291f\jetified-firebase-installations-interop-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\07bfd3855be3dacc2a66c309ca783106\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\07bfd3855be3dacc2a66c309ca783106\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\db59f9acefbe52a745e279c670b2841f\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\db59f9acefbe52a745e279c670b2841f\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\97495be63d0e41c2ed188db39371a292\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\97495be63d0e41c2ed188db39371a292\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\e24a8a58f9ad09c19384cf824cedf898\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\e24a8a58f9ad09c19384cf824cedf898\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8fe8d629ed365d84ec6396a77822e0fa\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8fe8d629ed365d84ec6396a77822e0fa\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\16278dbc350bee12621e270897a9eed6\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\16278dbc350bee12621e270897a9eed6\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6a9e70998461afeab69337f6bd1bd7bd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6a9e70998461afeab69337f6bd1bd7bd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ca97129a2b5d6997b138e57d527b00a5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ca97129a2b5d6997b138e57d527b00a5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b89b9e5aa86059fb1a2d06806fe40d06\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b89b9e5aa86059fb1a2d06806fe40d06\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\16cce318352b0342c0055c0d656bb98a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\16cce318352b0342c0055c0d656bb98a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\332ec11a98b37ad25b1e5b97824dfae2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\332ec11a98b37ad25b1e5b97824dfae2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\2b2c3d53d115d91e3a754d8977b8fc86\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\2b2c3d53d115d91e3a754d8977b8fc86\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7ad242176384f10b9ff8b4a410ba25ab\jetified-exoplayer-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7ad242176384f10b9ff8b4a410ba25ab\jetified-exoplayer-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8ca56a27f4150254d8e1dd693fd8a98f\jetified-exoplayer-ui-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8ca56a27f4150254d8e1dd693fd8a98f\jetified-exoplayer-ui-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\03509f69f752fa25b71122031f077dfb\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\03509f69f752fa25b71122031f077dfb\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\52fc12c2fe1e8174b50c648f6492c8c7\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\52fc12c2fe1e8174b50c648f6492c8c7\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\e2a6ada9f464624487d5b8211c4847aa\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\e2a6ada9f464624487d5b8211c4847aa\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0cf9d3a1916eb79b77e27f87c9ab3fcf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0cf9d3a1916eb79b77e27f87c9ab3fcf\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.2.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6b2619145796022d327a4eb4be0d365c\media-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6b2619145796022d327a4eb4be0d365c\media-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6adb73ad9106880e57d7e1ec333aa31d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6adb73ad9106880e57d7e1ec333aa31d\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7194f1d5f898f44b67eabdf4d09813d5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\7194f1d5f898f44b67eabdf4d09813d5\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\820473139abe90160e1d5b178b8d7c2a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\820473139abe90160e1d5b178b8d7c2a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5d8b11699009200b1fecbb4ed603e8be\jetified-extension-okhttp-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-okhttp:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5d8b11699009200b1fecbb4ed603e8be\jetified-extension-okhttp-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f28d2dd5f86c09b02bdc0da3c8f1dc65\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f28d2dd5f86c09b02bdc0da3c8f1dc65\exifinterface-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c893e467d09569f713ce5f41288c8919\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c893e467d09569f713ce5f41288c8919\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\262362128c6adf5b008f7b4e4f8d8f33\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\262362128c6adf5b008f7b4e4f8d8f33\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bfcc709bbbfa0118a5829f8fdf24fa00\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bfcc709bbbfa0118a5829f8fdf24fa00\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\a491cc07b9d7e565788b93a06b654a60\jetified-exoplayer-dash-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\a491cc07b9d7e565788b93a06b654a60\jetified-exoplayer-dash-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4f28bfea784ca1fff2364795f3a63056\jetified-exoplayer-hls-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4f28bfea784ca1fff2364795f3a63056\jetified-exoplayer-hls-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\387ac19364fb959fc430e1c5d71b1937\jetified-exoplayer-smoothstreaming-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\387ac19364fb959fc430e1c5d71b1937\jetified-exoplayer-smoothstreaming-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5fb068556a2ae13856aa934bd4a71f49\jetified-exoplayer-transformer-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-transformer:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5fb068556a2ae13856aa934bd4a71f49\jetified-exoplayer-transformer-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\01f92004d56b52b50dd81910eaa1e5fe\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\01f92004d56b52b50dd81910eaa1e5fe\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f42bdec93e411521da10c42f09aef8c4\jetified-exoplayer-extractor-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\f42bdec93e411521da10c42f09aef8c4\jetified-exoplayer-extractor-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b0cac009609f3be01460c0894c8e7725\jetified-exoplayer-common-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b0cac009609f3be01460c0894c8e7725\jetified-exoplayer-common-2.13.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3260eadb86b39f35d326863762ab9a2b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3260eadb86b39f35d326863762ab9a2b\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\26868c7efe37a329414f6c9eb00166a2\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\26868c7efe37a329414f6c9eb00166a2\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4e5b7f0d8657290771e0a64672d6114d\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4e5b7f0d8657290771e0a64672d6114d\jetified-firebase-encoders-json-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\9618be861e2755f08820d8c59d2810a7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\9618be861e2755f08820d8c59d2810a7\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b98175d82b5931256f2f2c89930e68f1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b98175d82b5931256f2f2c89930e68f1\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb46f4a306552967844dd4dde77001ce\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb46f4a306552967844dd4dde77001ce\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\9aa311864570cba014a21acb348ecd4a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\9aa311864570cba014a21acb348ecd4a\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\19025cfdfa25d95f16ce341081dfb0b6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\19025cfdfa25d95f16ce341081dfb0b6\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1f726c0dcbd3ce7dcc4eb0169dea3a47\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1f726c0dcbd3ce7dcc4eb0169dea3a47\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b4a21082224ae501ccf3dbe48b0af2ad\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b4a21082224ae501ccf3dbe48b0af2ad\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\77e298229267a5e40637440d3b3a41ae\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\77e298229267a5e40637440d3b3a41ae\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\03f0cd33800c80b61a695f23cbe7f103\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\03f0cd33800c80b61a695f23cbe7f103\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\eed2432ebbb5273cd34bd3daa3a8e856\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\eed2432ebbb5273cd34bd3daa3a8e856\jetified-flipper-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5b8f69e37d76de3f4c3f355aa5611543\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5b8f69e37d76de3f4c3f355aa5611543\jetified-stetho-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4c24f9eac559e39e0b841c292e86b79f\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\4c24f9eac559e39e0b841c292e86b79f\jetified-fresco-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\99ce8faa51b55601243bde7e516fdc80\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\99ce8faa51b55601243bde7e516fdc80\jetified-drawee-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8a1e992f024aea6808eb37a94926f3a4\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\8a1e992f024aea6808eb37a94926f3a4\jetified-nativeimagefilters-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ce5608118ef44f19e34c0b1abe10a572\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ce5608118ef44f19e34c0b1abe10a572\jetified-memory-type-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\470b21d9b43984b1636136a3cb7059d6\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\470b21d9b43984b1636136a3cb7059d6\jetified-memory-type-java-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b02629505fffa1ae009b31175003af3b\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b02629505fffa1ae009b31175003af3b\jetified-imagepipeline-native-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\aafa3ebeaa5165acd7ea423ce6bf1548\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\aafa3ebeaa5165acd7ea423ce6bf1548\jetified-memory-type-ashmem-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\78c94b4889a7742eb38dcce02db886a6\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\78c94b4889a7742eb38dcce02db886a6\jetified-imagepipeline-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\69f8532b13a171397509ca7c324efe6d\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\69f8532b13a171397509ca7c324efe6d\jetified-nativeimagetranscoder-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6f59eba8e15ecb9d6e360661c8b83e1e\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6f59eba8e15ecb9d6e360661c8b83e1e\jetified-imagepipeline-base-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0c40e28bf21a8ae7b404ec3a9c7fca9\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0c40e28bf21a8ae7b404ec3a9c7fca9\jetified-soloader-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\36e29989621daf5e89b997538d6a24ae\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\36e29989621daf5e89b997538d6a24ae\jetified-soloader-0.9.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c5974ff8e5e59e672e47ae2a76436e1b\jetified-eventbus-3.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\c5974ff8e5e59e672e47ae2a76436e1b\jetified-eventbus-3.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\dd20334d780406349135891cf9efd6f3\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\dd20334d780406349135891cf9efd6f3\jetified-fbcore-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cf6ee4f899c2c957a5f506151b17f1fe\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cf6ee4f899c2c957a5f506151b17f1fe\jetified-ui-common-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3713f268c61e9325990bb656fcd6b6a1\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3713f268c61e9325990bb656fcd6b6a1\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.66.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\3c181fe2a511e3a9270df96e080fe6e4\jetified-flipper-0.66.0\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\01f92004d56b52b50dd81910eaa1e5fe\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\01f92004d56b52b50dd81910eaa1e5fe\jetified-exoplayer-core-2.13.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b0cac009609f3be01460c0894c8e7725\jetified-exoplayer-common-2.13.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.13.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\b0cac009609f3be01460c0894c8e7725\jetified-exoplayer-common-2.13.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-76
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\@react-native-firebase\messaging\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-84
+provider#com.imagepicker.ImagePickerProvider
+ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-71
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-63
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:70
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+activity#com.proyecto26.inappbrowser.ChromeTabsManagerActivity
+ADDED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from [:react-native-inappbrowser-reborn] C:\Users\UNIA3\Pictures\Mendixnvapp\WorkoutNation\node_modules\react-native-inappbrowser-reborn\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-87
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.11.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\575b0791567da352be83f1feec47d929\jetified-okhttp3-integration-4.11.0\AndroidManifest.xml:12:13-84
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\28c37264e7ba5a27c4a0f91d81434ce4\jetified-ShortcutBadger-1.1.22\AndroidManifest.xml:50:22-86
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\1b529df891353a9e1cb8e1e71f06e47c\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\bf3aa77f28dd46386cd3bb88f7114612\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6186713ae006b8a67edb2e9fc5381847\jetified-firebase-messaging-21.0.0\AndroidManifest.xml:40:17-119
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\6d13e92fd3e9befb54a6497714af93d9\jetified-play-services-auth-18.1.0\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\ab9ef118b4bc4a58b3b94627c5b5c5b7\jetified-firebase-iid-21.0.0\AndroidManifest.xml:38:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\123be930975149c55781e00eeca4bf67\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\0295a5db0020a1be7e9e48b760e705eb\jetified-firebase-datatransport-17.0.3\AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\cb93f88d11618137ef132d439eae9a20\jetified-firebase-installations-16.3.3\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\87eaf0eb401ef656c7e173aaa1b7742f\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\d0f695e5c2e7d296b1386f0a745a2d64\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\5e1858e1d18d31128a970bd81d629632\jetified-transport-backend-cct-2.2.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\fd35435130bd6aeaed0d4d7fabfcc9df\jetified-transport-runtime-2.2.0\AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\UNIA3\.gradle\caches\transforms-2\files-2.1\62ec6cf541d28f9374d26378aa04fd16\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107

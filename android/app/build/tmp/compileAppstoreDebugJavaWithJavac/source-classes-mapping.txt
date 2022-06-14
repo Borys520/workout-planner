@@ -1,0 +1,15 @@
+com/mendix/nativetemplate/MendixPackageList.java
+ com.mendix.nativetemplate.MendixPackageList
+com/mendix/nativetemplate/BuildConfig.java
+ com.mendix.nativetemplate.BuildConfig
+com/mendix/nativetemplate/MainApplication.java
+ com.mendix.nativetemplate.MainApplication
+ com.mendix.nativetemplate.MainApplication$1
+com/mendix/nativetemplate/MainActivity.java
+ com.mendix.nativetemplate.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/mendix/nativetemplate/databinding/LaunchScreenBinding.java
+ com.mendix.nativetemplate.databinding.LaunchScreenBinding
+com/mendix/nativetemplate/MendixActivityObserver.java
+ com.mendix.nativetemplate.MendixActivityObserver
