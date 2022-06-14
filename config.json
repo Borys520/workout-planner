@@ -131,10 +131,10 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": false
+            "enabled": true
         }
     },
-    "appVersion": "1.0.1",
+    "appVersion": "1.0.3",
     "buildNumber": 2,
     "runtimeUrl": "https://workoutnation100-sandbox.mxapps.io"
 }
